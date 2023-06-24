@@ -1,0 +1,8 @@
+CRUD para frases
+POST /frase - Criar novas frases (OK)
+GET /frases - Listar todas as frases (OK)
+GET /frases/123 - pegar informações de um frases (Ok)
+PUT / frases/123 - Atualizar informações de uma frases (OK)
+DELETE/ frases/123 - Deletar uma frase (OK)
+
+GET /frase/aleatoria - paegar uma frase aleatoriamente (OK)
